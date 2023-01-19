@@ -1,0 +1,75 @@
+
+
+.navbar-brand img
+{
+    width: 100px;
+}
+
+#boton_verde
+{
+    color: #25a342
+}
+
+
+.carousel-item
+{ 
+    opacity: .8;
+}
+
+.seccion1{
+    padding: 20px;
+    text-align: center;
+}
+
+section h2{
+    font-weight: bold;
+
+}
+
+section h2 span{
+    font-size: 20px;
+    display: block;
+
+}
+
+section article{
+    margin: 10px 10px;
+    background-color: black;
+    display: inline-block;
+    position: relative;
+    margin: 20px 30px;
+    vertical-align: top;
+}
+
+.seccion2{
+    margin: 0 20px auto;
+}
+
+
+.tituloform{
+    text-align: center;
+}
+
+form{
+    width: 70%;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: darkslateblue;
+    margin: 40px 0 auto;
+}
+footer ul{
+    margin: 0 auto;
+}
+
+footer ul li{
+    display: inline-block;
+    margin: 0 30px;
+    color: white;
+}
+
+footer ul li a{
+    color: white;
+}
+
